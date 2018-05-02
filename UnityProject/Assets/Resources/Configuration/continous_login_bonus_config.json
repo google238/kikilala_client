@@ -1,0 +1,39 @@
+{
+    "content": [
+        {
+            "day": 1,
+            "reward_id": 18,
+            "mid": "continous_login_bonus_1"
+        },
+        {
+            "day": 2,
+            "reward_id": 120,
+            "mid": ""
+        },
+        {
+            "day": 3,
+            "reward_id": 121,
+            "mid": "continous_login_bonus_3"
+        },
+        {
+            "day": 4,
+            "reward_id": 58,
+            "mid": "continous_login_bonus_4"
+        },
+        {
+            "day": 5,
+            "reward_id": 107,
+            "mid": "continous_login_bonus_5"
+        },
+        {
+            "day": 6,
+            "reward_id": 62,
+            "mid": "continous_login_bonus_6"
+        },
+        {
+            "day": 7,
+            "reward_id": 91,
+            "mid": "continous_login_bonus_7"
+        }
+    ]
+}
